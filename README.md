@@ -2,4 +2,4 @@
 
 ### Participantes
 
-- Paulo Igor
+- Bruno Barros - Analista Jr Cesupa
